@@ -142,8 +142,9 @@ p.note { display: none; }
 <a href="20240101_005.JPG" data-lightbox="abc"><img src="20240101_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240101_006.JPG" data-lightbox="abc"><img src="20240101_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240101_007.JPG" data-lightbox="abc"><img src="20240101_007.JPG" alt="サンプル画像" width="900" /></a>
-<p>いかにも南国風の果実「カヌン」、初めて食べると味のキツさに負けるかも・・・</p>
+
 <a href="20240101_008.JPG" data-lightbox="abc"><img src="20240101_008.JPG" alt="サンプル画像" width="900" /></a>
+<p>いかにも南国風の果実「カヌン」、初めて食べると味のキツさに負けるかも・・・</p>
 <a href="20240101_009.JPG" data-lightbox="abc"><img src="20240101_009.JPG" alt="サンプル画像" width="900" /></a>
 
 <a href="20240101_010.JPG" data-lightbox="abc"><img src="20240101_010.JPG" alt="サンプル画像" width="900" /></a>
