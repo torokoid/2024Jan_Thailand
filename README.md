@@ -155,9 +155,9 @@ p.note { display: none; }
 <p>一拍遅れて味噌汁も出ます</p>
 <a href="20240101_013.JPG" data-lightbox="abc"><img src="20240101_013.JPG" alt="サンプル画像" width="900" /></a>
 <p>お会計は224バーツ ≒ ¥900</p>
-<a href="20240101_014.JPG" data-lightbox="abc"><img src="20240101_014.JPG" alt="サンプル画像" width="900" /></a>
-<p>スーパーのうなぎは399バーツ ≒ ¥1600</p>
 <a href="20240101_011.JPG" data-lightbox="abc"><img src="20240101_011.JPG" alt="サンプル画像" width="900" /></a>
+<p>スーパーのうなぎは399バーツ ≒ ¥1600</p>
+<a href="20240101_014.JPG" data-lightbox="abc"><img src="20240101_014.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br>
